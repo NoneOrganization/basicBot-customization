@@ -55,7 +55,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "Lietuvos Širdis",
         language: "lithuanian",
-        chatLink: "https://rawgit.com/NoneOrganization/basicBot/tree/master/lang/lt.json",
+        chatLink: "https://rawgit.com/NoneOrganization/basicBot/blob/master/lang/lt.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,
